@@ -16,7 +16,7 @@ A simple web app that generates a password based off of user inputs about length
 
 ## Screenshots
 
-![App Screenshot](./screenshot-README/Capture.jpg)
+![App Screenshot](./screenshot-README/Capture.JPG)
 
 
 ## License
